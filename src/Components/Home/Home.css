@@ -1,0 +1,18 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+   margin: 30px;
+}
+.tshirt-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px; 
+}
+.tshirt-container img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 8px;
+    background-color: rgb(227, 192, 180);
+}

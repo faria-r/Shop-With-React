@@ -1,0 +1,7 @@
+.tshirt{
+    border: 1px solid lightsalmon;
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 2px 13px 16px gray;
+    background-color: antiquewhite;
+}
